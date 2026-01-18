@@ -11,12 +11,12 @@ Projekt został zaprojektowany w sposób modułowy, oferując dwa niezależne sp
 - Moduł Graficzny (Pygame)
 - Moduł Terminalowy (CLI)
 
-#Uruchomienie
+# Uruchomienie
 
 - Wizualizacja graficzna - python main_pygame.py
 - Tryb tekstowy - python bst_dsw_text.py
 
-#Pliki
+# Pliki
 
 - Dokumentacja_bst_dsw.pdf - pełna dokumentacja techniczna i opis 
 - bst_dsw.py - logika drzewa i algorytmu DSW
